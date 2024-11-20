@@ -3,17 +3,14 @@ The Roles Tracking System is a comprehensive tool designed to streamline the man
 
 ## Prerequisites
 
-### Java 21.0.3
+#### Java 21.0.3
 JDK 21.0.3 installed and configured on the system.
 Set JAVA_HOME environment variable.
-
-### Gradle 8.8
+#### Gradle 8.8
 Gradle 8.8 installed and added to the system’s PATH.
-
-### PostgreSQL 16
+#### PostgreSQL 16
 PostgreSQL 16 installed and running.
-
-### Spring Boot 3.3.5
+#### Spring Boot 3.3.5
 Spring Boot 3.3.5 configured in the build.gradle file.
 
 
